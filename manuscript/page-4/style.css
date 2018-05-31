@@ -5,8 +5,31 @@ body {
 				padding: 0;
 				background-color: #cfdfe4;
 				overflow: hidden;
+				font-size:10vw;
 }
 
+.content {
+	height: 80vh;
+	width: 100vw;
+	background: tomato;
+}
+
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
+
+img {
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
+
+
+.brand {
+	font-size: 4vw;
+	margin: 0;
+	padding: 0;
+}
 
 footer {
 	height: 20vh;
