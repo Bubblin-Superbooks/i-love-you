@@ -1,5 +1,5 @@
 {
-  "name": "i-love-you",
+  "name": "i love you",
   "type": "comics",
   "has_page_numbers": false,
   "mode": {
@@ -7,5 +7,6 @@
     "CSS": "css",
     "JS": "js",
     "HEAD": "html"
-  }
+  },
+  "book_id": 547
 }

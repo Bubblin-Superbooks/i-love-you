@@ -7,14 +7,16 @@ body, html {
     margin: 0 0;
     overflow: hidden;
     background-repeat: no-repeat;
-    background-color: #fff;
+    background-color: #cfdfe4;
     background-size: 100% 100%;
-}
-
-img {
-    border: 0;
-    -ms-interpolation-mode: bicubic;
+    font-family: 'Nanum Pen Script', cursive;
 }
 
 
-  
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+

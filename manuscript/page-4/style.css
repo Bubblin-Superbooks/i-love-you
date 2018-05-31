@@ -1,0 +1,19 @@
+html,
+body {
+				max-height: 100%;
+				margin: 0;
+				padding: 0;
+				background-color: #cfdfe4;
+				overflow: hidden;
+}
+
+
+footer {
+	height: 20vh;
+	background: white;
+	position: absolute;
+	bottom: 0;
+	width: 100vw;
+	display: block;
+	color: black;
+}
